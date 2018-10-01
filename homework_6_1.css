@@ -1,0 +1,117 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-size: 1.2em;
+    margin: 0px;
+    color: #222220;
+    background: #f7f6f1;
+
+}
+
+.col_1 {
+    width: 8.333333333333333%;}
+.col_2 {
+    width: 16.66666666666667%;}
+.col_3 {
+    width: 25%;}
+.col_4 {
+    width: 33.33333%;}
+.col_6 {
+    width: 50%;}
+.col_8 {
+    width: 66.66666666666667%%;}
+.col_12 {
+    width: 100%;}
+
+.conteiner {
+    width: 1170px;
+    margin: 0 auto;
+   
+
+}
+
+.row {
+    margin: 0 -15px;
+    padding-bottom: 15px;
+}
+.col {
+    padding: 0 15px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.clear {
+    clear: both;
+    height: 1px;
+}
+.touch{
+    
+height: 180px;
+text-align: center;
+
+font-size: 1.2em;
+padding: 100px 0px;
+
+
+}
+.contact{
+height: 400px;
+padding-bottom: 320px;
+
+
+}
+
+.contact h1{
+text-transform: uppercase;
+
+
+}
+.contact u{
+    text-transform: uppercase;
+    
+    
+    }
+.contact p{
+   
+    font-style: italic;
+    
+}
+
+.cont_text{
+    padding-left: 40px;
+    font-size: 1.1em;
+line-height: 35px;
+}
+
+
+.cont_img{
+margin-top: 40px;
+
+
+}
+.cont_img img{
+   
+    padding: 20px;
+    
+    }
+.footer{
+
+
+    height: 360px;
+    background-image: url(./img/bg--footer.jpg);
+}
+
+.footer .logo {
+    width: 100px;
+    margin: 0px auto;
+
+}
+.footer .logo img{
+   
+    margin-top: 90px ;
+
+}
+.copyright{
+text-align: center;
+color: #e4e4e4;
+line-height: 35px;
+}
